@@ -1,0 +1,90 @@
+04/13/2021 07:33:51 AM: INFO: *************test login no. 1**************:
+04/13/2021 07:33:51 AM: INFO: *************verifying Home Page Title**************:
+04/13/2021 07:33:59 AM: INFO: *************The Test has passed**************:
+04/13/2021 07:34:00 AM: INFO: *********test no. 2***********:
+04/13/2021 07:34:10 AM: INFO: **************test has passed**************:
+04/13/2021 07:34:11 AM: INFO: *********test no. 1***********:
+04/13/2021 07:34:11 AM: INFO: *********verifying Login DDT test***********:
+04/13/2021 07:34:25 AM: INFO: ***Passed***:
+04/13/2021 07:34:32 AM: INFO: ***Passed***:
+04/13/2021 07:34:37 AM: INFO: ***Passed***:
+04/13/2021 07:34:43 AM: INFO: ***Passed***:
+04/13/2021 07:34:43 AM: INFO: ***Login DDT test has passed***:
+04/13/2021 07:34:43 AM: INFO: ['Pass', 'Pass', 'Pass', 'Pass']:
+04/13/2021 07:34:43 AM: INFO: end of test:
+04/13/2021 07:35:36 AM: INFO: *********test no. 2***********:
+04/13/2021 07:35:36 AM: INFO: *********test no. 1***********:
+04/13/2021 07:35:36 AM: INFO: *********verifying Login DDT test***********:
+04/13/2021 07:35:36 AM: INFO: *************test login no. 1**************:
+04/13/2021 07:35:36 AM: INFO: *************verifying Home Page Title**************:
+04/13/2021 07:35:42 AM: INFO: *************The Test has passed**************:
+04/13/2021 07:35:45 AM: INFO: **************test has passed**************:
+04/13/2021 07:35:50 AM: INFO: ***Passed***:
+04/13/2021 07:35:57 AM: INFO: ***Passed***:
+04/13/2021 07:36:03 AM: INFO: ***Passed***:
+04/13/2021 07:36:09 AM: INFO: ***Passed***:
+04/13/2021 07:36:09 AM: INFO: ***Login DDT test has passed***:
+04/13/2021 07:36:09 AM: INFO: ['Pass', 'Pass', 'Pass', 'Pass']:
+04/13/2021 07:36:09 AM: INFO: end of test:
+04/13/2021 07:40:57 AM: INFO: *************test login no. 1**************:
+04/13/2021 07:40:57 AM: INFO: *************verifying Home Page Title**************:
+04/13/2021 07:40:57 AM: INFO: *********test no. 2***********:
+04/13/2021 07:40:57 AM: INFO: *********test no. 1***********:
+04/13/2021 07:40:57 AM: INFO: *********verifying Login DDT test***********:
+04/13/2021 07:40:59 AM: INFO: *************The Test has passed**************:
+04/13/2021 07:41:03 AM: INFO: **************test has passed**************:
+04/13/2021 07:41:09 AM: INFO: ***Passed***:
+04/13/2021 07:41:16 AM: INFO: ***Passed***:
+04/13/2021 07:41:22 AM: INFO: ***Passed***:
+04/13/2021 07:41:27 AM: INFO: ***Passed***:
+04/13/2021 07:41:27 AM: INFO: ***Login DDT test has passed***:
+04/13/2021 07:41:28 AM: INFO: ['Pass', 'Pass', 'Pass', 'Pass']:
+04/13/2021 07:41:28 AM: INFO: end of test:
+04/13/2021 12:15:40 PM: INFO: *********test no. 2***********:
+04/13/2021 12:15:40 PM: INFO: *************test login no. 1**************:
+04/13/2021 12:15:40 PM: INFO: *************verifying Home Page Title**************:
+04/13/2021 12:15:41 PM: INFO: *********test no. 1***********:
+04/13/2021 12:15:41 PM: INFO: *********verifying Login DDT test***********:
+04/13/2021 12:15:43 PM: INFO: *************The Test has passed**************:
+04/13/2021 12:15:51 PM: INFO: **************test has passed**************:
+04/13/2021 12:15:55 PM: INFO: ***Passed***:
+04/13/2021 12:16:03 PM: INFO: ***Passed***:
+04/13/2021 12:16:09 PM: INFO: ***Passed***:
+04/13/2021 12:16:16 PM: INFO: ***Passed***:
+04/13/2021 12:16:16 PM: INFO: ***Login DDT test has passed***:
+04/13/2021 12:16:16 PM: INFO: ['Pass', 'Pass', 'Pass', 'Pass']:
+04/13/2021 12:16:16 PM: INFO: end of test:
+04/13/2021 12:17:48 PM: INFO: *************test login no. 1**************:
+04/13/2021 12:17:48 PM: INFO: *************verifying Home Page Title**************:
+04/13/2021 12:17:50 PM: INFO: *************The Test has passed**************:
+04/13/2021 12:17:51 PM: INFO: *********test no. 2***********:
+04/13/2021 12:17:59 PM: INFO: **************test has passed**************:
+04/13/2021 12:18:01 PM: INFO: *********test no. 1***********:
+04/13/2021 12:18:01 PM: INFO: *********verifying Login DDT test***********:
+04/13/2021 12:18:13 PM: INFO: ***Passed***:
+04/13/2021 12:18:20 PM: INFO: ***Passed***:
+04/13/2021 12:18:27 PM: INFO: ***Passed***:
+04/13/2021 12:18:33 PM: INFO: ***Passed***:
+04/13/2021 12:18:33 PM: INFO: ***Login DDT test has passed***:
+04/13/2021 12:18:33 PM: INFO: ['Pass', 'Pass', 'Pass', 'Pass']:
+04/13/2021 12:18:33 PM: INFO: end of test:
+04/13/2021 12:25:51 PM: INFO: *************test login no. 1**************:
+04/13/2021 12:25:51 PM: INFO: *************verifying Home Page Title**************:
+04/13/2021 12:25:56 PM: INFO: *************The Test has passed**************:
+04/13/2021 12:26:02 PM: INFO: *********test no. 2***********:
+04/13/2021 12:26:10 PM: INFO: **************test has passed**************:
+04/16/2021 08:31:36 PM: INFO: *************test login no. 1**************:
+04/16/2021 08:31:36 PM: INFO: *************verifying Home Page Title**************:
+04/16/2021 08:31:46 PM: INFO: *********test no. 2***********:
+04/16/2021 08:31:55 PM: INFO: **************test has passed**************:
+04/17/2021 10:30:07 AM: INFO: *************test login no. 1**************:
+04/17/2021 10:30:07 AM: INFO: *************verifying Home Page Title**************:
+04/17/2021 10:30:12 AM: INFO: *************The Test has passed**************:
+04/17/2021 10:30:18 AM: INFO: *********test no. 2***********:
+04/17/2021 10:30:24 AM: INFO: **************test has passed**************:
+04/17/2021 12:07:52 PM: INFO: *********test no. 2***********:
+04/17/2021 12:08:03 PM: INFO: **************test has passed**************:
+04/17/2021 12:08:57 PM: INFO: *********test no. 2***********:
+04/17/2021 12:09:07 PM: INFO: **************test has passed**************:
+04/17/2021 12:11:38 PM: INFO: *********test no. 2***********:
+04/17/2021 12:11:48 PM: INFO: **************test has passed**************:
